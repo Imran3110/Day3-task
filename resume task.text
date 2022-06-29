@@ -1,0 +1,30 @@
+let a=[{
+    "Name" : "IMRANKHAN S"
+    "Father Name" : "S/o SALEEM K.I"
+    Address" : "4/104B,School Street,Solamadevi(po),Madathukulam(tk),Tiruppur(dt)"
+},
+{
+    "Career Objective" : "To work in a Organisation which provide me a good working environment and improve my knowledge for the contribution of organisation development"    
+},
+{
+    "B.EEE" : "7.6 CGPA"
+    "HSC" : "58.75"
+    "SSLC" : "71"
+},
+{
+    "Intenship and Projects" : "Contactless Control for Lifts"
+},
+{
+    "Skill Set" : "Basic knowledge of Python"
+},
+{
+    "Experience" : "6 months as an Industrial Safety Officer
+                    3 months as an Computer Service Engineer"
+},
+{
+    "Achievements" : "Bronze medal for Bad-minton and relay(4*100)"
+},
+{
+    "Declaration" : "I hereby declare that the abovr information is corect up to my knowledge and I hope the responsability for the correctness of the above mentioned particulars"
+},
+]

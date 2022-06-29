@@ -1,0 +1,15 @@
+WINDOW:
+        * It is the top object hierarchy.it display the content of webpage. 
+window is the first thing that gets loaded in the browser and it is an 
+global object.windows property cannot be accessed by the document.
+
+SCREEN:
+        * It is an property to hold the information of browser screen.It is 
+used to display screen width,height,colour,pixel etc.It can be access by 
+window.screen object.
+
+
+DOCUMENT:
+        * It is an content of the webpage to be displayed.Actually,it is created by HTML code.
+It will also access the document by using window.document   
+
